@@ -1,8 +1,7 @@
 # my_hunter
 
 An Epitech project where we need to create a hunter game.
-My game was created on the Nyan Cat's theme.
-It was created by using the CSFML library in C.
+My game was created on the Nyan Cat's theme and was created by using the CSFML library in C.
 
 ![hunterpicture](https://i.imgur.com/xXYJqmD.png)
 
